@@ -268,4 +268,4 @@ part of your notebook will contain only the imports, classes and methods. The se
 part will be your “main program”. You will work with the initial data and you will go
 through most of the steps that you executed before.
 
-What you need to do is fully described in [the notebook](https://drive.google.com/file/d/1keRIBgR6CwlEW1QuDMdL37iQ4b54KNno/view).
+What you need to do is fully described in [the notebook](https://disk.360.yandex.ru/d/jXE4MK0G5C5PKQ).
